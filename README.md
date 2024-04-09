@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm D.Tejesh Kumar</h1>
 <h3 align="center">A passionate Computer Vision and Machine learning developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejeshk05&label=Profile%20views&color=0e75b6&style=flat" alt="tejeshk05" /> </p>
 

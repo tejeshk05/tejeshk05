@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejeshk05&label=Profile%20views&color=0e75b6&style=flat" alt="tejeshk05" /> </p>
 
-- 🔭 I’m currently working on **Movie Recommendation System**
+- 🔭 I’m currently working on **LLM Projects**
 
 - 💬 Ask me about **Machine learning models and OS etc**
 

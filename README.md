@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm D.Tejesh Kumar</h1>
 <h3 align="center">A passionate Computer Vision and Machine learning developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejeshk05&label=Profile%20views&color=0e75b6&style=flat" alt="tejeshk05" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejeshk05&label=Profile%20views&color=0e75b6&style=flat" alt="tejeshk0" /> </p>
 
 - 🔭 I’m currently working on **LLM Projects**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dtejesh05k@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/157Qh72OvXWmj7YDgyhxcduboSiN1j1mM/view?usp=sharing](https://drive.google.com/file/d/1FdXtBwfq6p5gECDqT0Ub0QDymKJJKtJw/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/157Qh72OvXWmj7YDgyhxcduboSiN1j1mM/view?usp=sharing](https://drive.google.com/file/d/1ureJVMxgvBPqD5tRb_X5nJaj4qvpwlr9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

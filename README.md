@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejeshk05&label=Profile%20views&color=0e75b6&style=flat" alt="tejeshk0" /> </p>
 
-- 🔭 I’m currently working on **🚧 VR-Based Auto Road Construction using A* Pathfinding with Civil Engineering Constraints**
+- 🔭 I’m currently working on 🚧 **VR-Based Auto Road Construction using A* Pathfinding with Civil Engineering Constraints**
 
 - 💬 Ask me about **Machine learning models and OS etc**
 

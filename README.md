@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **dtejesh05k@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1ureJVMxgvBPqD5tRb_X5nJaj4qvpwlr9/view?usp=sharing](https://drive.google.com/file/d/1xO0ItzuOu0lg1OcPD_J-7V8FWHFRdi20/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xO0ItzuOu0lg1OcPD_J-7V8FWHFRdi20/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
